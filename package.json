@@ -1,0 +1,25 @@
+{
+  "name": "react-nextjs",
+  "version": "1.0.0",
+  "description": "React and NextJS as part of my studies",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleber-smartdev/React-NextJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kleber-smartdev/React-NextJS/issues"
+  },
+  "homepage": "https://github.com/kleber-smartdev/React-NextJS#readme",
+  "dependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
